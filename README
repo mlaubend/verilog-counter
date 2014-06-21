@@ -1,0 +1,3 @@
+SUMMARY:
+
+verilog code for an up-counter when run on an spartan6 FPGA.  It contains a debouncer to clean the signal from the FPGA button, and the count shows up on the 8-segment display.
